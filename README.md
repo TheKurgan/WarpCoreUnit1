@@ -11,7 +11,7 @@ https://forum.kerbalspaceprogram.com/index.php?/topic/133074-131-sm-armory-sm-af
 
 Check out his signature for a list of his other awesome mods!
 
-
+----------------------------------------------------------------------------------------------------------------------------------
 
 SpannerMonkey created this model for me from a warpcore model I found on blendswap, and derived a config for it following the configs for Alcubierre Warp Drive (Stand-alone)By RoverDude. which is a dependancy for this mod.
 
