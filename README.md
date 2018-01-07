@@ -2,9 +2,11 @@
 A Star Trek Trek inspired warp core for Kerbal Space Program.
 
 Original Model creator: Scouting Ninja
+
 Original Source of the Model: https://www.blendswap.com/blends/view/50588
 
 Modified by: SpannerMonkey(smce)
+
 https://forum.kerbalspaceprogram.com/index.php?/topic/133074-131-sm-armory-sm-afvs-etc-bda-damage-overhaul-version/&
 
 Check out his signature for a list of his other awesome mods!
