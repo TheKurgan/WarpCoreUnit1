@@ -10,7 +10,9 @@ Modified by: SpannerMonkey(smce)
 https://forum.kerbalspaceprogram.com/index.php?/topic/133074-131-sm-armory-sm-afvs-etc-bda-damage-overhaul-version/&
 
 Check out his signature for a list of his other awesome mods!
-------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 SpannerMonkey created this model for me from a warpcore model I found on blendswap, and derived a config for it following the configs for Alcubierre Warp Drive (Stand-alone)By RoverDude. which is a dependancy for this mod.
 
 I have heavily modified the config to run on it's own resource, Dilithium Crystal (of course), provide it's own power (850ec/s), power storage (1000 ElectricCharge) and provide a way to replenish the Dilithium Crystal from processing ore at a rate of 1 Dilithium Crystal per every 10 ore, every 10 sec.
