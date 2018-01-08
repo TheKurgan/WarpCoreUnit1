@@ -13,13 +13,13 @@ Check out his signature for a list of his other awesome mods!
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-SpannerMonkey created this model for me from a warpcore model I found on blendswap, and derived a config for it following the configs for Alcubierre Warp Drive (Stand-alone) By RoverDude. which is a dependancy for this mod.
+SpannerMonkey created this model for me from a warpcore model I found on blendswap, and derived a config for it following the configs for Alcubierre Warp Drive (Stand-alone) By RoverDude. which is a dependency for this mod.
 
 I have heavily modified the config to run on it's own resource, Dilithium Crystal (of course), provide it's own power (850 ec/s), power storage (1000 ElectricCharge) and provide a way to replenish the Dilithium Crystal from processing ore at a rate of 1 Dilithium Crystal per every 10 ore, every 10 sec.
 
 This warp core is a little cheaty compared to the other warp drives out there, because of it's size... and yes, I know... no warp nacelles. 
 
-I was fed up building warp capable ships and having to use enourmous warp drives, I wanted something I could fit inside a large cargo bay, and well, here it is!
+I was fed up building warp capable ships and having to use enormous warp drives, I wanted something I could fit inside a large cargo bay, and well, here it is!
 
 This Warp Core is a fully self contained warp drive, reactor and ore processor. In order to make use of the reactor and ore processing, first you must "Deploy the Converter" wait for it to be ready, then start the reactor or the ore processing.
 
