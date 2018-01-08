@@ -26,6 +26,6 @@ I was fed up building warp capable ships and having to use enormous warp drives,
 
 This Warp Core is a fully self contained warp drive, reactor and ore processor. In order to make use of the reactor and ore processing, first you must "Deploy the Converter" wait for it to be ready, then start the reactor or the ore processing.
 
-The ore processing requires exactly 99% of the reactors power output, leaving you with a very small output of 8.5 ec/s to maintain minimal ship fumctions. Do not attempt to run the ore processor and the engine at the same time unless you have a rather large secondary power source.
+The ore processing requires exactly 99% of the reactors power output, leaving you with a very small output of 8.5 ec/s to maintain minimal ship functions. Do not attempt to run the ore processor and the engine at the same time unless you have a rather large secondary power source.
 
 In order to create a "Warp Bubble", you must be a minimum of 90km above the surface... then buckle up and engage!
