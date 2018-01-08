@@ -1,6 +1,9 @@
 # WarpCoreUnit1
 A Star Trek Trek inspired warp core for Kerbal Space Program.
 
+Dependencies: [1.3] Alcubierre Warp Drive (Stand-alone) By RoverDude.
+https://github.com/BobPalmer/WarpDrive/releases
+
 Original Model creator: Scouting Ninja
 
 Original Source of the Model: https://www.blendswap.com/blends/view/50588
